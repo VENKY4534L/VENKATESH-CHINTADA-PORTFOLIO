@@ -1,4 +1,4 @@
-🌐 Personal Portfolio – Venkatesh Chintada
+# Personal Portfolio – Venkatesh Chintada
 
 A responsive personal portfolio website to showcase my skills, projects, certifications, and experience.
 This site serves as my professional presence on the web and highlights my journey in Computer Science and Engineering.
